@@ -1,4 +1,4 @@
-package AlgorithmicAssociation.LeetCode_123;
+package AlgorithmicAssociation.No25th.LeetCode_123;
 
 class Solution {
     public int maxProfit(int[] prices) {

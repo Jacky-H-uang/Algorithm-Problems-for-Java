@@ -1,4 +1,4 @@
-package AlgorithmicAssociation.LeetCode_746;
+package AlgorithmicAssociation.No25th.LeetCode_746;
 
 class Solution {
     // 动态规划:
