@@ -19,8 +19,8 @@ public class Solution
         {
             for(int j = 0; j < 60; ++j)
             {
-                // 注意分钟前面的 0 要判断
-                if(transform(i) + transform(j) == num)      ans.add(i + ":" + (j<10? "0" + j : j));
+                // 分钟前面的 0 要判断
+                if(transform(i) + transform(j) == num)      ans.add(i + ":" + (j < 10? "0" + j : j));
             }
         }
     }
