@@ -28,7 +28,7 @@ public class Solution
         }
 
         // 如果只存在 0 就返回 0
-        if(ans.toString().charAt(0) == '0')     return "0";
+        if(ans.toString().charAt(0) == '0')      return "0";
 
         return ans.toString();
     }
