@@ -1,3 +1,3 @@
-# LeetCode---Tags刷题 （Java）
+# 算法刷题 （Java）
 
-更新自己的刷题（Java语言）
+更新自己的刷题包括 LeetCode 洛谷等比赛（Java语言）
