@@ -2,7 +2,7 @@ package AlgorithmicAssociation.No39th.LeetCode_5557;
 
 
 
-// 理解有点模糊
+// 组合计数
 public class Solution
 {
     public String kthSmallestPath(int[] destination, int k)
@@ -26,6 +26,7 @@ public class Solution
         {
             if(h > 0)
             {
+                // 算排一个 H 之后能排多少个 H
                 int o = comb[h+v-1][h-1];
                 if(k > o)
                 {
